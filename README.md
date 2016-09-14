@@ -50,7 +50,7 @@ Command Usage
 
 In general, the command usage is:
 
-* _path-to-php-executable_ _path-to-pmimporter.phar_ _sub-command_ [options]
+* _\bin\php\php.exe_ _pmimporter.phar_ _sub-command_ [options]
 
 ### Sub-commands
 
