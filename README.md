@@ -37,7 +37,7 @@ would cause the game to crash.
 
 In general, the command usage is:
 
-* _\bin\php\php.exe_ _pmimporter.phar_ _sub-command_ [options]
+* _\bin\php\php.exe_ _pmimporter_v2.0dev1.phar_ _sub-command_ [options]
 
 ### Sub-commands
 
